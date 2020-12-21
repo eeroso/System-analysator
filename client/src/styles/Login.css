@@ -1,0 +1,36 @@
+.container {
+    text-align: center;
+    background:  rgb(32, 32, 32);
+    padding: 5vh;
+    margin-left: 30vw;
+    margin-right: 30vw;
+    margin-top: 25vh;
+    margin-bottom: 25vh;
+    border-radius: 10px;
+    
+}
+
+.login {
+    display:inline-block;
+}
+
+.text {
+    margin: 2px;
+    background: #181818;
+    border: none;
+    border-radius: 5%;
+    color: rgb(206, 206, 206);
+    padding: 5px;
+
+}
+
+button {
+    margin: 2px;
+    padding: 8px;
+    border-radius: 5%;
+    border: none;
+    background: white;
+}
+button:hover {
+    background: lightgray;
+}

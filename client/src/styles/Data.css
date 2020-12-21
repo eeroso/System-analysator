@@ -1,0 +1,36 @@
+.contentblock {
+    text-align: center;
+    background:  rgb(32, 32, 32);
+    padding: 2vh;
+    margin-left: 2vw;
+    margin-right: 1vw;
+    margin-top: 4vh;
+    margin-bottom: 0vh;
+    border-radius: 10px;
+}
+p {
+    text-transform: uppercase;
+}
+.text {
+    margin: 2px;
+    background: #181818;
+    border: none;
+    border-radius: 5%;
+    color: rgb(206, 206, 206);
+    padding: 5px;
+}
+.datetime {
+    margin: 2px;
+    background: #181818;
+    border: none;
+    border-radius: 5%;
+    color: rgb(206, 206, 206);
+    padding: 5px;
+}
+button {
+    margin: 2px;
+    padding: 8px;
+    border-radius: 5%;
+    border: none;
+    background: white;
+}

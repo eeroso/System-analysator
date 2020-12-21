@@ -1,0 +1,13 @@
+section {
+    display: inline-block;
+    background: rgb(32, 32, 32);
+    border-radius: 10px;
+    padding: 5vh;
+    margin: 5vh;
+}
+
+img {
+    width: 8vh;
+    padding-left: 5px;
+    padding-right: 5px;
+}
